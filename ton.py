@@ -1,1 +1,2 @@
-import ttn
+print("bhag vsdk")
+exit("exit")
